@@ -1,0 +1,7 @@
+services:
+  alert-server:
+    build: ./server
+    restart: unless-stopped
+    env_file: .env
+    ports:
+      - "8023:8023"

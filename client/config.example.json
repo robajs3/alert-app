@@ -1,0 +1,6 @@
+{
+  "server_url": "wss://alerty.twojadomena.pl/alertapp/ws",
+  "token": "TEN-SAM-CO-CLIENT_TOKEN-NA-SERWERZE",
+  "name": "Biuro-PC-1",
+  "autostart": true
+}
